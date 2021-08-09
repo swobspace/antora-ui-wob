@@ -33,3 +33,8 @@
     flex-basis: var(--toc-width--widescreen);
   }
 }
+
+.medium-zoom-overlay,
+.medium-zoom-image--opened {
+  z-index: 999;
+}
