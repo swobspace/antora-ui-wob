@@ -38,3 +38,15 @@
 .medium-zoom-image--opened {
   z-index: 999;
 }
+
+input#search-input {
+  padding: 0.5em;
+  border-radius: 0.5em;
+  border-style: none;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+.search-result-dropdown-menu {
+  left: 0 !important;
+}
